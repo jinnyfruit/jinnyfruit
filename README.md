@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jinnyfruit
 - 👀 I’m interested in Data Science, Machine Learning, and Deep Learning.
-- 🌱 I’m currently learning FastAI ![image](https://user-images.githubusercontent.com/68141544/212215476-a9f5b21b-c837-42a5-a4eb-8240766098ff.png)
- and Deep Learning 
+- 🌱 I’m currently learning FastAI and Deep Learning 
 - 📫 You can reach me to send a email: jinnyfruit0527@gmail.com
 
 <!---
